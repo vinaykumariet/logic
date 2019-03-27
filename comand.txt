@@ -1,0 +1,28 @@
+$ pip install django =="2.2"
+
+
+
+
+$ pip install virtualenv
+E:\djangonew>  virtualenv myvenv
+E:\djangonew>myvenv\Scripts\activate
+for deactivate
+deactivate
+
+
+
+
+$ django-admin startproject potfolio
+$ python manage.py startapp jobs
+$ python manage.py makemigrations
+$ python manage.py createsuperuser  "$ winpty python manage.py createsuperuser"
+$  python manage.py collectstatic
+
+
+pip install social-auth-app-django
+
+
+
+$ git init
+$ git add -A
+$ git commit -m "first"
